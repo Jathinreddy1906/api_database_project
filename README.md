@@ -19,7 +19,7 @@ it into PostgreSQL.
 Install the Python dependencies:
 
 ```bash
-python -m pip install requests pandas psycopg2-binary
+python -m pip install -r requirements.txt
 ```
 
 ## Database setup
